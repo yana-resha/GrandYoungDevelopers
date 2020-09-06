@@ -7,7 +7,7 @@ file_path = 'TEST2.txt'
 files = {'file': open(file_path, 'rb')}
 
 
-header = {'Authorization' : 'AgAAAAAUQONkAADLW01wR5v2DkWggMGRqeR0VHg'}
+header = {'Authorization' : 'введите токен'}
 
 
 def upload():
